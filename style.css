@@ -10,7 +10,28 @@ h2 {
 	color:white;
 	text-align:center;
 }
-
-button {
+#refresh {
+    position:absolute; left:46%; top:40%;
+}
+#time {
+	position:absolute; left:47.5%; top:26%;
+}
+#subject {
 	position:absolute; left:47%;
+}
+#subjectdisplay {
+	color:white;
+	position:absolute; top:30%; left:45%;
+}
+#subjectdisplaymath {
+	color:white;
+	position:absolute; top:33%; left:45%;
+}
+#timedisplay {
+    color:white;
+	position:absolute; top:36%; left:45%;
+} 
+h3 {
+	font-size:140%;
+	text-align:center;
 }
